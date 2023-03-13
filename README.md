@@ -81,7 +81,7 @@ Vous voilà sur ce centre de contrôle, nous allons voir à quoi correspondent c
 - **Bouncer** : logiciels autonomes chargés de prendre une décision suite à une alerte : bloquer une IP, présenter un captcha, appliquer le MFA à un utilisateur donné, etc…
 - **Blocklist** : établir une blacklist pour bloquer l’accès à certain IP (certaines listes sont déjà construites et prête à être utilisées).
 
-## Scenarios
+### Scenarios
 
 Initialement 35 scénarios sont déjà déployés, nous allons en voir quelques uns.
 
