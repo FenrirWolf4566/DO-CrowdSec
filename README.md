@@ -2,7 +2,7 @@
 
 La sécurité dans le DevOps est un gros enjeu, car comme le reste il faut l'intégrer dans le cycle et la rendre automatique et systématique. Ce qui n'est pas une chose aisée, car longtemps délaissé et les développeurs ne sont pas forcément en recherche de risque 0. C'est pourquoi il est important de rendre ce cycle sûr.
 
-La sécurité dans le cycle DevOps peut intervenir à n'importe quel endroit : le code, le test, le déploiement, le monitoring ,.... Chaque étape demande des niveaux d'exigences différents. 
+La sécurité dans le cycle DevOps peut intervenir à n'importe quel endroit : le code, le test, le déploiement, le monitoring... Chaque étape demande des niveaux d'exigences différents. 
 
 Cette pullrequest à pour but de présenter quelques outils qu'on à juger important à mettre en place dans une logique de DevOps. 
 
